@@ -1,4 +1,4 @@
 # Presentacion Final Cohorte02
 
- * Slides
+ * [Slides](./slides.pdf)
  * Video
